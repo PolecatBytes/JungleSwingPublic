@@ -10,9 +10,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Advertising ID. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Advertising ID. The information that we request will be not be retained by us and only used as described in this privacy policy.
 
-The app does use third-party services that may collect information used to identify you.
+The app does use third-party services that may collect information used to identify you. We might transfer the data collected to these third party providers.
 
 Link to the privacy policy of third-party service providers used by the app
 
